@@ -37,7 +37,7 @@ THIRD_PARTY_APPS = [
 ]
 
 LOCAL_APPS = [
-    'listings',
+    'alx_travel_app.listings',
 ]
 
 INSTALLED_APPS = DJANGO_APPS + THIRD_PARTY_APPS + LOCAL_APPS
