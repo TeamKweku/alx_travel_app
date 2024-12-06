@@ -83,6 +83,7 @@ alx_travel_app/
 
 ## Technologies Used
 
+
 - Django 4.2
 - Django REST Framework
 - MySQL
